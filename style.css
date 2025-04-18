@@ -45,13 +45,14 @@ html,body{
 #center{
     /* height: 40%; */
     width: 100%;
-    /* background-color: red; */
+    background-color: rgb(206, 200, 200);
     padding: 40px 80px; 
 }
 #center h1{
     font-size: 80px;
     font-weight: 500;
     line-height: 90px;
+
 }
 #center-in{
     height: 200px;
@@ -104,7 +105,7 @@ html,body{
 #bottom{
     height: 83%;
     width: 100%;
-    background-color: red;
+    /* background-color: red; */
     /* background-image: url(/https://i.pinimg.com/736x/3f/f6/84/3ff68460d9cdfef4bb0958d30376c1b3.jpg); */
     background-image: url(static/img3.jpg);
     background-size: cover;
